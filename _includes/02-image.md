@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Open Book Pages](https://static.wixstatic.com/media/20f6f7_3d538dc0ef6f4467a63cbad755d60c23~mv2.jpg/v1/fill/w_1582,h_1560,fp_0.50_0.50,q_90,usm_0.66_1.00_0.01/20f6f7_3d538dc0ef6f4467a63cbad755d60c23~mv2.jpg)
