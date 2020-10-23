@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+[Book-Smart Design Home](www.booksmartdesign.com)
+Social Media Sites
+- [Pinterest](https://www.pinterest.com/booksmartdesign/)
+-- *Discover themed book lists*
